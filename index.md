@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名：苏思仁
+#### 学历：高中
+#### 居住：番禺
+#### 邮箱：nerisus@163.com
 
-You can use the [editor on GitHub](https://github.com/nerisus/nerisus.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 工作职位
+- unity3d开发工程师
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### IT技能
+- 语言：C# 、SharderLab
+- 工具：unity、VS
+- 插件：NGUI、Itweem
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nerisus/nerisus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 项目经验
+- **项目一：《破茧成蝶》**
+角色扮演游戏，选择喜欢的角色和技能，刷副本打怪升级赚金币……
+发布平台：Android
+责任——
+1.技能：主角与小怪都可以复用的技能机制
+2.AI：通过配置文件配置状态机，自由组合不同AI方案
+3.UI：NGUI事件框架实现界面交互功能，利于版本迭代
+4.工具：对象池资源管理
+5.优化：Drawcall、渲染和内存优化
+6.Sharder：玻璃扭曲折射效果
