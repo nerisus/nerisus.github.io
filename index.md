@@ -23,7 +23,7 @@
 
 ### 项目经验
 - **项目一：《破茧成蝶》**
-<a href="butterfly/index.html">项目演示</a>
+<a href="/butterfly/index.html">项目演示</a>
 - 角色扮演游戏，选择喜欢的角色和技能，刷副本打怪升级赚金币……
 - 发布平台：Android
 - 责任——
