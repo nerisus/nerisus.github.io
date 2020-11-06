@@ -8,7 +8,7 @@
       <p><b>邮箱：nerisus@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/nerisus_head.jpg" width="100%">      % 插入证件照代码
+      <img src="/nerisus_head.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -22,7 +22,7 @@
 - 插件：NGUI、Itweem
 
 ### 项目经验
-- **项目一：《破茧成蝶》**
+- **项目一：《破茧成蝶》** [项目演示]（butterfly.index.html）
 - 角色扮演游戏，选择喜欢的角色和技能，刷副本打怪升级赚金币……
 - 发布平台：Android
 - 责任——
