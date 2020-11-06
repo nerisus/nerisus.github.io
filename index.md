@@ -1,8 +1,17 @@
-### 个人信息
-#### 姓名：苏思仁
-#### 学历：高中
-#### 居住：番禺
-#### 邮箱：nerisus@163.com
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>苏思仁</h1>
+      <p><b>高中</b></p>
+      <p><b>麻章区第一中学</b></p>
+      <p><b>居住：番禺南村万博</b></p>
+      <p><b>邮箱：nerisus@163.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/nerisus_head.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 ### 工作职位
 - unity3d开发工程师
